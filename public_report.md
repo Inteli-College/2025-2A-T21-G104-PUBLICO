@@ -39,7 +39,13 @@ Yani Studios was born with the mission of strengthening the Brazilian game ecosy
 - **Value Proposition Canvas:** alignment between player pains and desired gains.  
 - **SWOT:** strengths such as cultural innovation and risks such as limited resources and global competition.  
 
-*Figure 1 – Value Proposition Canvas defined in Sprint 2*  
+<img width="2245" height="1587" alt="image" src="https://github.com/user-attachments/assets/933c3968-133b-43fb-b43e-834bc3ffb8a5" />
+
+*Figure 1 – Value Proposition Canvas defined in Sprint 2* 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ad7d86e-3bdb-4bf1-b0a7-ad15f872527f" />
+
 *Figure 2 – SWOT Matrix defined in Sprint 2*  
 
 ---
@@ -53,7 +59,14 @@ Yani Studios was born with the mission of strengthening the Brazilian game ecosy
   • Emily Johnson (international player, USA)  
 - Ensured that game design remained **user-centered** and **culturally inclusive**.  
 
-*Figure 3 – Persona: Pedro Henrique da Silva (Brazilian Player)*  
+
+<img width="3672" height="3872" alt="image" src="https://github.com/user-attachments/assets/b09e3f94-0a38-4405-9049-541cb5cbaf9e" />
+
+*Figure 3 – Persona: Pedro Henrique da Silva (Brazilian Player)* 
+
+
+<img width="3672" height="3916" alt="image" src="https://github.com/user-attachments/assets/9dea1c66-e07b-4fbe-a206-d603ace8e666" />
+
 *Figure 4 – Persona: Emily Johnson (International Player)*  
 
 ---
